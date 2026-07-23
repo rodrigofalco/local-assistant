@@ -1,4 +1,5 @@
-.pi/
+.pi/settings.json
+.pi/extensions/
 *.log
 node_modules/
 .DS_Store
